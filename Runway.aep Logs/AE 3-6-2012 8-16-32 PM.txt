@@ -1,0 +1,27 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “Runway.aep”
+
+Rendering started on 3/6/2012 at 8:16:32 PM
+
+
+  3/6/2012 8:16:32 PM: Starting composition “Button Banner”.
+
+
+  Output To: C:\Users\wilk0146\Desktop\mtm1521-graphic-effects-banner-ads\pat_wilkins_Button.flv
+  
+  3/6/2012 8:16:52 PM: Finished composition “Button Banner”.
+
+
+
+  3/6/2012 8:16:52 PM: Starting composition “Banner-Skyscraper”.
+
+
+  Output To: C:\Users\wilk0146\Desktop\mtm1521-graphic-effects-banner-ads\pat_wilkins_skyscraper_1.flv
+  
+  3/6/2012 8:17:09 PM: Finished composition “Banner-Skyscraper”.
+
+
+
+  Total Time Elapsed: 37 Seconds
+
+Log closed on 3/6/2012 at 8:17:10 PM
+

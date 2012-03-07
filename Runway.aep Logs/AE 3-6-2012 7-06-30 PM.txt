@@ -1,0 +1,27 @@
+Adobe After Effects v10.5 (Windows 64) render log for project “Runway.aep”
+
+Rendering started on 3/6/2012 at 7:06:30 PM
+
+
+  3/6/2012 7:06:30 PM: Starting composition “Dynamic Banner”.
+
+
+  Output To: C:\Users\wilk0146\Desktop\mtm1521-graphic-effects-banner-ads\Dynamic Banner 1600.flv
+  
+  3/6/2012 7:06:51 PM: Finished composition “Dynamic Banner”.
+
+
+
+  3/6/2012 7:06:51 PM: Starting composition “Dynamic Banner”.
+
+
+  Output To: C:\Users\wilk0146\Desktop\mtm1521-graphic-effects-banner-ads\Dynamic Banner.flv
+  
+  3/6/2012 7:07:13 PM: Finished composition “Dynamic Banner”.
+
+
+
+  Total Time Elapsed: 42 Seconds
+
+Log closed on 3/6/2012 at 7:07:13 PM
+
